@@ -1,2 +1,2 @@
 # JavaServerFacesExample
-Example Java Server Faces Example
+Java Server Faces Example
