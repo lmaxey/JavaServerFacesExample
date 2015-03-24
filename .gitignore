@@ -1,0 +1,15 @@
+target
+
+# Netbeans
+nb-configuration.xml
+
+# IntelliJ
+/.idea
+/JavaServerFacesExample.iml
+/JavaServerFacesExample.ipr
+/JavaServerFacesExample.iws
+
+# Eclipse
+.project
+.classpath
+.settings
